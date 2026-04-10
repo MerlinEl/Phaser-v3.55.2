@@ -1,7 +1,7 @@
 # All Versions
 [https://github.com/phaserjs/phaser/tree/v3.55.2]
 
-# Phaser - HTML5 Game Framework
+# Phaser 3.55.2 - HTML5 Game Framework
 
 ![Phaser Header](https://phaser.io/images/github/300/phaser-header.png "Phaser 3 Header Banner")
 
