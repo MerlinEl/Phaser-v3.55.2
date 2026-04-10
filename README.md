@@ -1,3 +1,6 @@
+# All Versions
+[https://github.com/phaserjs/phaser/tree/v3.55.2]
+
 # Phaser - HTML5 Game Framework
 
 ![Phaser Header](https://phaser.io/images/github/300/phaser-header.png "Phaser 3 Header Banner")
@@ -23,10 +26,6 @@ Thousands of developers from indie and multi-national digital agencies, and univ
 **Be awesome:** [Support](#support) the future of Phaser<br />
 
 Grab the source and join the fun!
-
-![What's New](https://phaser.io/images/github/div-whats-new.png "What's New")
-
-<div align="center"><img src="https://phaser.io/images/github/news.jpg"></div>
 
 > 27th May 2021
 
